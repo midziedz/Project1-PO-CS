@@ -1,0 +1,11 @@
+{
+  "width": 60,
+  "height": 30,
+  "startEnergy": 1000,
+  "moveEnergy": 2,
+  "maxEndurance": 30,
+  "minPlantEnergy": 5,
+  "maxPlantEnergy": 10,
+  "jungleRatio": 0.1,
+  "startAnimalNumber": 10
+}
